@@ -124,30 +124,15 @@ Esta guía documenta paso a paso el proceso de instalación de Raspbian Lite en 
 
 ## Paso 15: Conexión SSH desde Windows
 
-*Comentario pendiente*
-
-![Paso 17](images/17.png)
-
+*Nos conectamos a la  RPi escribiendo lo que está marcado de color verde.*
+CD \ (intro)
+*Después, *
+SSH nuestrousuario@IPdelaRaspbrry
+*nos pedirá la password que habíamos puesto, y...*
+![Paso 18](images/18.png)
 ---
 
 *Ya estamos conectados a la RPi. Para la instalación del control del conmutador de antenas, seguid los siguientes pasos.*
 
-![Paso 18](images/18.png)
 
----
 
-## Paso 19: Conexión SSH desde Windows (usuario ez7ke)
-
-*Comentario pendiente*
-
-![Paso 19](images/19.png)
-
----
-
-## Paso 20: Conexión SSH desde Windows (usuario pi)
-
-*Comentario pendiente*
-
-![Paso 20](images/20.png)
-
----
