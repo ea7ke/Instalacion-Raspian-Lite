@@ -16,6 +16,8 @@ Esta guía documenta paso a paso el proceso de instalación de Raspbian Lite en 
 
 *Vamos a instalar una versión ligera para que funcione en cualquier RPi y admeás en tarjetas desde 8Gb. Por lo tanto en OTHERS elegimos Raspbian Lite 32bits (no lo he probado con la de 64 bits)*
 
+---
+
 ![Paso 2](images/2.png)
 
 ---
