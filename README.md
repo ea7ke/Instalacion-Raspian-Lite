@@ -32,47 +32,47 @@ Esta guía documenta paso a paso el proceso de instalación de Raspbian Lite en 
 
 ---
 
-## Paso 5: Selección de Raspbian Lite
+## Paso 4: Ponemos el nombre de nuestra PI
 
-*Comentario pendiente*
+*Elegimos un nombre para nuestra RPi. Es el nombre del host en la red*
 
 ![Paso 5](images/5.png)
 
 ---
 
-## Paso 6: Selección del dispositivo de almacenamiento
+## Paso 5: Selección regional
 
-*Comentario pendiente*
+*Si estamos en España lo más lógico es poner las opciones mostradas. Pero que cada uno elija lo que quiera*
 
 ![Paso 6](images/6.png)
 
 ---
 
-## Paso 7: Configuración del hostname
+## Paso 6: Configuración del usuario
 
-*Comentario pendiente*
+*Creamos el primer usuario. Normalmente el nuestro y la contraseña que queramos. Es importante guardarla ya que será con la que accedamos para configurarla*
 
 ![Paso 7](images/7.png)
 
 ---
 
-## Paso 8: Configuración de localización
+## Paso 7: Configuración de la red WiFi
 
-*Comentario pendiente*
+*Aunque yo la tengo conectada por cable, también conviene (si quieres) aprovechar para configurarle al red WiFi*
 
 ![Paso 8](images/8.png)
 
 ---
 
-## Paso 9: Creación de usuario
+## Paso 8: Activar servicio de SSH
 
-*Comentario pendiente*
+*Para quien no conozca ssh, es el servicio por el que nos conectaremos para poder configurar desde terminal la RPi*
 
 ![Paso 9](images/9.png)
 
 ---
 
-## Paso 10: Configuración de Wi-Fi
+## Paso 9: Activación de Raspberry Pi Connect
 
 *Comentario pendiente*
 
@@ -80,7 +80,7 @@ Esta guía documenta paso a paso el proceso de instalación de Raspbian Lite en 
 
 ---
 
-## Paso 11: Activación de SSH
+## Paso 10: Confirmación de configuración antes de escribir
 
 *Comentario pendiente*
 
