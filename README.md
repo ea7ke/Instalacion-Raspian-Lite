@@ -132,7 +132,9 @@ SSH nuestrousuario@IPdelaRaspbrry
 ![Paso 18](images/18.png)
 ---
 
-*Ya estamos conectados a la RPi. Para la instalación del control del conmutador de antenas, seguid los siguientes pasos.*
+*Ya estamos conectados a la RPi. Para la instalación del control del conmutador de antenas, seguid los siguientes pasos de la web que os dejo a continuación.*
+
+https://github.com/ea7ke/antenna-switch-control
 
 
 
