@@ -24,9 +24,9 @@ Esta guía documenta paso a paso el proceso de instalación de Raspbian Lite en 
 
 ---
 
-## Paso 4: Selección del sistema operativo
+## Paso 3: Selección de la tarjeta SD
 
-*Comentario pendiente*
+*Elegimos la unidad donde tenemos la SD*
 
 ![Paso 4](images/4.png)
 
