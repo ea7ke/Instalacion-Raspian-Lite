@@ -74,7 +74,7 @@ Esta guía documenta paso a paso el proceso de instalación de Raspbian Lite en 
 
 ## Paso 9: Activación de Raspberry Pi Connect
 
-*Comentario pendiente*
+*No conozco bien el funcionamiento, pero permite conectarnos a la RPi desde cualquier sitio remoto mediante una web. Lo dejo a elección de cada uno su activación o no. En principio yo no lo he activado ya que no lo necesito.*
 
 ![Paso 10](images/10.png)
 
@@ -82,15 +82,13 @@ Esta guía documenta paso a paso el proceso de instalación de Raspbian Lite en 
 
 ## Paso 10: Confirmación de configuración antes de escribir
 
-*Comentario pendiente*
+*Repasamos la configuración y si está correcto aceptamos*
 
 ![Paso 11](images/11.png)
 
 ---
 
-## Paso 12: Activación de Raspberry Pi Connect
-
-*Comentario pendiente*
+*¿¡Seguro!?*
 
 ![Paso 12](images/12.png)
 
