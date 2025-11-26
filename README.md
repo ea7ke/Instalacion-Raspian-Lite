@@ -6,23 +6,19 @@ Esta guía documenta paso a paso el proceso de instalación de Raspbian Lite en 
 
 ## Paso 1: Selección del modelo de Raspberry Pi
 
-*Comentario pendiente*
+*Seleccionamos el modelo de Raspberry que vamos a usar. Yo lo he hecho con la RPi 3 pero debería funcionar en todas.*
 
 ![Paso 1](images/1.png)
 
 ---
 
-## Paso 2: Instalación y activación de pigpio
+## Paso 2: Selección de la versión de SO a instalar
 
-*Comentario pendiente*
+*Vamos a instalar una versión ligera para que funcione en cualquier RPi y admeás en tarjetas desde 8Gb. Por lo tanto en OTHERS elegimos Raspbian Lite 32bits (no lo he probado con la de 64 bits)*
 
 ![Paso 2](images/2.png)
 
 ---
-
-## Paso 3: Selección del dispositivo Raspberry Pi
-
-*Comentario pendiente*
 
 ![Paso 3](images/3.png)
 
