@@ -94,15 +94,13 @@ Esta guía documenta paso a paso el proceso de instalación de Raspbian Lite en 
 
 ---
 
-## Paso 13: Confirmación de configuración antes de escribir
+## Paso 13: Inicio del proceso de escritura
 
-*Comentario pendiente*
+*Esperamos que termine de escribir*
 
 ![Paso 13](images/13.png)
 
 ---
-
-## Paso 14: Advertencia antes de sobrescribir el dispositivo
 
 *Comentario pendiente*
 
@@ -110,23 +108,21 @@ Esta guía documenta paso a paso el proceso de instalación de Raspbian Lite en 
 
 ---
 
-## Paso 15: Inicio del proceso de escritura
-
-*Comentario pendiente*
+*Retiramos la tarjeta SD y la insertamos en la RPi. Esperamos que arranque y buscamos alguna de sus IPs*
 
 ![Paso 15](images/15.png)
 
 ---
 
-## Paso 16: Progreso de escritura
+## Paso 14: Localizar la IP de la Raspberry
 
-*Comentario pendiente*
+*Necesitamos saber qué IP ha obtenido del servidor DHCP de nuestro router. Para ello yo uso la herramienta Advanced IP Scanner que es gratuita y se puede descargar de la web*
 
 ![Paso 16](images/16.png)
 
 ---
 
-## Paso 17: Finalización del proceso
+## Paso 15: Conexión SSH desde Windows
 
 *Comentario pendiente*
 
@@ -134,9 +130,7 @@ Esta guía documenta paso a paso el proceso de instalación de Raspbian Lite en 
 
 ---
 
-## Paso 18: Verificación de dispositivos en red con Advanced IP Scanner
-
-*Comentario pendiente*
+*Ya estamos conectados a la RPi. Para la instalación del control del conmutador de antenas, seguid los siguientes pasos.*
 
 ![Paso 18](images/18.png)
 
